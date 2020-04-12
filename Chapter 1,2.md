@@ -26,35 +26,35 @@
 
 3. True and True is True.
 
-True and False is False.
+   True and False is False.
 
-False and True is False.
+   False and True is False.
 
-False and False is False.
+   False and False is False.
 
-True or True is True.
+   True or True is True.
 
-True or False is True.
+   True or False is True.
 
-False or True is True.
+   False or True is True.
 
-False or False is False.
+   False or False is False.
 
-not True is False.
+   not True is False.
 
-not False is True.
+   not False is True.
 
 4. False
 
-False
+   False
 
-True
+   True
 
-False
+   False
 
-False
+   False
 
-True
+   True
 
 5. ==, !=, <, >, <=, and >=
 
